@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Website nurulhadid.sch.id sedang dalam masa perawatan" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Mohon maaf atas ketidak nyamanan antum</code>
         </p>
       </main>
 
