@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Website nurulhadid.sch.id sedang dalam masa perawatan" />
         <p className="description">
-          Mohon maaf atas ketidak nyamanan antum</code>
+          Mohon maaf atas ketidaknyamanan anda
         </p>
       </main>
 
